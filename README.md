@@ -32,13 +32,13 @@ Ensure you have the following installed on your system:
   - **Linux:** GCC and make.
 - **node-gyp:** Can be installed globally using the following command:
 
-  ```bash
+  ``` bash
   npm install -g node-gyp
 ```
- ##Installation
+## Installation
 1. 
 Clone the repository to your local machine:
- ```bash
+``` bash
 git clone https://github.com/yourusername/nvda-controller-client-node.git
 cd nvda-controller-client-node
 ```
